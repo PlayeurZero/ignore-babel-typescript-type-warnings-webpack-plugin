@@ -1,0 +1,12 @@
+{
+  "name": "ignore-babel-typescript-type-warnings-webpack-plugin",
+  "version": "0.1.0",
+  "description": "A Webpack plugin to ignore warnings issued from webpack when parsing TypeScript using @babel/typescript plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicolas MATHIEU <n.mathieu@splitfire.fr>",
+  "license": "Mozilla Public License 2.0"
+}
