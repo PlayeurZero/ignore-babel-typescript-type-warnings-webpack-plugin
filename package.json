@@ -1,6 +1,6 @@
 {
   "name": "ignore-babel-typescript-type-warnings-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Webpack plugin to ignore warnings issued from webpack when parsing TypeScript using @babel/typescript plugin.",
   "main": "index.js",
   "scripts": {
